@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('/sittipon', function () {
     return view('sittipon');
 });
+
+Route::get('/yotsaphon', function () {
+    return view('yotsaphon');
+});
