@@ -22,3 +22,7 @@ Route::get('/sittipon', function () {
 Route::get('/yotsaphon', function () {
     return view('yotsaphon');
 });
+
+Route::get('/wanchaloemchai', function () {
+    return view('wanchaloemchai');
+});

@@ -74,6 +74,7 @@
                 <div class="links">
                     <a href="/sittipon">Sittipon</a>
 					<a href="/yotsaphon">yotsaphon</a>
+					<a href="/wanchaloemchai">wanchaloemchai</a>
                 </div>
             </div>
         </div>
