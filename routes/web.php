@@ -25,7 +25,8 @@ Route::get('/yotsaphon', function () {
 
 Route::get('/wanchaloemchai', function () {
     return view('wanchaloemchai');
+});	
 	
 Route::get('/nathapol', function () {
-return view('nathapol');
+	return view('nathapol');
 });
